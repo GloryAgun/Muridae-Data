@@ -1,0 +1,36 @@
+HBL,HFL,WT,Mean_Temp,Max_Temp,Min_temp,Lat.mid,Habitat,Loc_niche
+137,38,76,23.8,29.2,17.9,0.48,Forest,Terrestrial
+105,18,37,27.9,37,17,12,Savanna,Terrestrial
+116,19,53,16.4,27.5,4.7,35.23,Forest,Terrestrial
+86,16,19,22,29.8,13.3,-6.68,Savanna,Terrestrial
+118,20,52,18.2,32,4.4,35.05,Rocky Areas,Terrestrial
+91,15,23,23.9,31.1,16,-8.63,Forest,Terrestrial
+97,13,30,25.2,32.5,17.4,3.11,Savanna,Terrestrial
+109,19,37,24.2,37.2,9.6,22.12,Rocky Areas,Terrestrial
+114,21,43,12.5,20.4,3.7,7.21,Shrubland,Terrestrial
+128,23,61,17.7,27.1,7.9,9.32,Forest,Terrestrial
+114,21,43,20,27.7,11.6,6.48,Forest,Terrestrial
+122,24,52,14.7,19.2,9.9,-2.26,Forest,Terrestrial
+123,22,61,18,23.7,11,6.21,Forest,Terrestrial
+102,21,34,23.1,28.5,17.5,0.27,Forest,Terrestrial
+123,21,52,21.1,29.5,11.7,-11.6,Savanna,Terrestrial
+125,22,49,16,23.1,7.5,-4.44,Forest,Terrestrial
+103,21,35,15.6,20.7,10.3,-1.84,Forest,Terrestrial
+146,23,95,12,19.9,3.3,7.26,Shrubland,Terrestrial
+134,22,74,15.6,23.9,7,9.6,Forest,Terrestrial
+134,24,60,22.1,29.1,14.6,7.01,Forest,Terrestrial
+102,16,32,16.4,21.7,11,-2.01,Forest,Terrestrial
+128,22,64,20.5,26,15.4,4.25,Forest,Terrestrial
+128,22,52,20.8,28.5,11.8,-7.81,Forest,Terrestrial
+133,23,57,18,27.5,7.6,12.24,Shrubland,
+118,23,46,10,14.6,5.3,0.38,Forest,Terrestrial
+121,26,47,18.4,23.9,12.7,-2.05,Forest,Terrestrial
+109,25,46,19.6,33.1,4.1,-25.16,Desert,Terrestrial
+162,41,146,20.9,29.8,10.5,-9.52,Savanna,Terrestrial
+157,31,94,27.6,37.8,16.2,13.58,Savanna,Terrestrial
+141,33,73,26.8,34.9,17.3,10.78,Savanna,Terrestrial
+156,41,116,23.6,32,14,-14.23,Savanna,Terrestrial
+158,33,101,25.7,33.2,17,7.26,Savanna,Terrestrial
+152,35,103,25.5,34.5,15.5,7.63,Savanna,Terrestrial
+167,34,129,23.2,31.9,13.2,-4.73,Savanna,Terrestrial
+137,33,78,18,32.6,2.2,33.85,Desert,Terrestrial
